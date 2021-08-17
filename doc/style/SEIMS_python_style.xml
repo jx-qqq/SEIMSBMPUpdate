@@ -1,0 +1,9 @@
+<code_scheme name="SEIMS_python_style">
+  <option name="RIGHT_MARGIN" value="100" />
+  <Python>
+    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+  </Python>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+</code_scheme>

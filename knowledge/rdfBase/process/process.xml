@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:hydro="http://www.cas.ac.cn/hydrology#">
+  <rdf:Description about="Infiltration">
+	<hydro:means>infiltration/surface runoff(地表下渗，地表产流)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Depression">
+	<hydro:means>depression(填洼)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Soil Evaporation">
+	<hydro:means>soil evaporation(土壤蒸发)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="PET">
+	<hydro:means>potential evapotranspiration(潜在蒸发)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Overland Flow">
+	<hydro:means>overland flow routing(坡面汇流)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Channel Flow">
+	<hydro:means>channel flow routing(河道汇流)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Water Balance">
+	<hydro:means>water balance(水量平衡)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Ground Water">
+	<hydro:means>ground water routing(地下水汇流)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Snow Melt">
+	<hydro:means>snow melt(融雪)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Interception">
+	<hydro:means>interception(植被截留)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Subsurface Flow">
+	<hydro:means>subsurface runoff,inter flow routing(壤中流模块，包括产流和汇流)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Splash Erosion">
+	<hydro:means>splash erosion(土壤击溅)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Sediment Yield">
+	<hydro:means>sediment yield(土壤侵蚀)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Overland Erosion">
+	<hydro:means>overland erosion(坡面侵蚀)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Channel Erosion">
+	<hydro:means>channel erosion(河道侵蚀)</hydro:means>
+  </rdf:Description>
+  <!--<rdf:Description about="Interflow Routing">
+	<hydro:means>interflow routing(壤中流汇流)</hydro:means>-->
+  </rdf:Description>
+  <rdf:Description about="Unsaturated Flow">
+	<hydro:means>unsaturated flow(不饱和流)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Snow Sublimation">
+	<hydro:means>snow sublimation(积雪升华)</hydro:means>
+  </rdf:Description>
+  <rdf:Description about="Snow Redistribution">
+	<hydro:means>snow redistribution(积雪再分配)</hydro:means>
+  </rdf:Description>
+</rdf:RDF>
